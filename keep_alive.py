@@ -6,7 +6,7 @@ app = Flask('')
 
 @app.route('/')
 def home():
-    return "Hello. I am alive!"
+    return "Two drinks in...! Already feels like it's one of those nights to forget... the more that I drink, the more I feel broken, and alone..."
 
 
 def run():
